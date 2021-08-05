@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/mayurrahangdale" target="blank"><img src="https://img.shields.io/twitter/follow/mayurrahangdale?logo=twitter&style=for-the-badge" alt="mayurrahangdale" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Machine Learning and Data Science**
 
-- 👨‍💻 All of my projects are available at [https://mayurcybercz.github.io/](https://mayurcybercz.github.io/)
+- 👨‍💻 All of my projects and research are available at my Portfolio on [https://mayurcybercz.github.io/](https://mayurcybercz.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/cyberczcodes](https://medium.com/cyberczcodes)
 

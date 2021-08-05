@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayur Rahangdale</h1>
 <h3 align="center">A passionate software engineer from Los Angeles</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurcybercz&label=Profile%20views&color=0e75b6&style=flat" alt="mayurcybercz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayurcybercz" alt="mayurcybercz" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mayurrahangdale" target="blank"><img src="https://img.shields.io/twitter/follow/mayurrahangdale?logo=twitter&style=for-the-badge" alt="mayurrahangdale" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science**
@@ -15,13 +11,7 @@
 
 - 📫 How to reach me **rahangdalemayur@gmail.com**
 
-- 📄 Know about my experiences [https://mayurcybercz.github.io/Mayur_rahangdale_2021_97.pdf](https://mayurcybercz.github.io/Mayur_rahangdale_2021_97.pdf)
-
 - ⚡ Fun fact **I play videogames and watch Japanese anime in free time**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurcybercz&show_icons=true&locale=en&layout=compact" alt="mayurcybercz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayurcybercz&show_icons=true&locale=en" alt="mayurcybercz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurcybercz&" alt="mayurcybercz" /></p>

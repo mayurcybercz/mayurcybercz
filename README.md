@@ -18,7 +18,6 @@
 <a href="https://twitter.com/mayurrahangdale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayurrahangdale" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayurrahangdale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayurrahangdale" height="30" width="40" /></a>
 <a href="https://medium.com/cyberczcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cyberczcodes" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mayurcybercz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayurcybercz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

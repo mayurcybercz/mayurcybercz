@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my work and research are available at my Portfolio on [https://mayurcybercz.github.io/](https://mayurcybercz.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/cyberczcodes](https://medium.com/cyberczcodes)
+- 📝 I write articles on [https://medium.com/cyberczcodes](https://medium.com/cyberczcodes)
 
 - 📫 How to reach me **rahangdalemayur@gmail.com**
 
